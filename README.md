@@ -37,9 +37,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-mishra-7ab8a4157"><img height="45em" src="https://img.shields.io/badge/-Aditya%20Mishra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:am6703@srmist.edu.in"><img height="45em" src="https://img.shields.io/badge/-am6703@srmist.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mishra1683"><img height="45em" src="https://img.shields.io/badge/-@mishra1683-E4405F?style=flat&logo=Instagram&logoColor=white"/></
+<a href="https://www.linkedin.com/in/aditya-mishra-7ab8a4157"><img height="40em" src="https://img.shields.io/badge/-Aditya%20Mishra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:am6703@srmist.edu.in"><img height="40em" src="https://img.shields.io/badge/-am6703@srmist.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mishra1683"><img height="40em" src="https://img.shields.io/badge/-@mishra1683-E4405F?style=flat&logo=Instagram&logoColor=white"/></
 </p>
 <!--
 **mishra1683/mishra1683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
