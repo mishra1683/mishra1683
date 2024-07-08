@@ -5,10 +5,10 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at SRM Univesity.\
+🎓 &nbsp;I'm currently working at Natwest Group as Senior Analyst .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at am6703@srmist.edu.in! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at aditya.radiant9@gmail.com! I'll try to respond as soon as I can.
 
 
 #### 🔭 I’m currently looking for new opportunities . <br>
@@ -39,8 +39,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-mishra-7ab8a4157"><img height="40em" src="https://img.shields.io/badge/-Aditya%20Mishra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:am6703@srmist.edu.in"><img height="40em" src="https://img.shields.io/badge/-am6703@srmist.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mishra1683"><img height="40em" src="https://img.shields.io/badge/-@mishra1683-E4405F?style=flat&logo=Instagram&logoColor=white"/></
+<a href="mailto:aditya.radiant9@gmail.com"><img height="40em" src="https://img.shields.io/badge/-aditya.radiant9@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mishradi0009/"><img height="40em" src="https://img.shields.io/badge/-@mishradi0009-E4405F?style=flat&logo=Instagram&logoColor=white"/></
 </p>
 <!--
 **mishra1683/mishra1683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
